@@ -28,7 +28,9 @@ plugins:
 # If you want to link only specific pages in your header, use this and add the path to the pages
 # in order as they should show up.
 header_pages:
-  - test.md
+  - reseau/reseau.md
+  - gestion-pjt/gestion-pjt.md
+  #- test.md
   - bio.md
   
 
@@ -45,7 +47,7 @@ minima:
   # solarized-light	   Light variant of solarized color scheme.
   # solarized-dark	   Dark variant of solarized color scheme.
   # solarized	         Adaptive skin for solarized color scheme skins.
-  skin: classic
+  skin: solarized-dark
   
   # Minima date format.
   # The default value is "%b %d, %Y" (e.g. Nov 14, 2023) 
