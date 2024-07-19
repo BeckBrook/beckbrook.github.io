@@ -28,8 +28,9 @@ plugins:
 # If you want to link only specific pages in your header, use this and add the path to the pages
 # in order as they should show up.
 header_pages:
-  - bio.md
   - test.md
+  - bio.md
+  
 
 # Set to `true` to show excerpts on the homepage.
 #show_excerpts: false
