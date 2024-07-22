@@ -7,16 +7,16 @@ categories: junk
 ---
 
 ### Index 
-- [les Systèmes de Numération, les bases](##les-systemes-de-numeration,-les-bases)
-- [Le Décimal](##Le-decimal)
-- [Le Binaire](##Le-binaire)
-- [L'Hexadécimal](##L-Hexadecimal)
-- [Convertir Décimal -> Binaire](##convertir-decimal-->-Binaire)
-- [Convertir Décimal -> Héxadécimal](##convertir-decimal-->-hexadecimal)
-- [Convertir Binaire -> Décimal](##convertir-binaire-->-decimal)
-- [Convertir Binaire -> Décimal](##convertir-binaire-->decimal)
-- [Convertir Hexadécimal -> Binaire](##convertir-hexadecimal-->-binaire)
-- [Convertir Hexadécimal -> Décimal](##convertir-hexadecimal-->-Decimal)
+- [les Systèmes de Numération, les bases](#les-systemes-de-numeration,-les-bases)
+- [Le Décimal](#Le-decimal)
+- [Le Binaire](#Le-binaire)
+- [L'Hexadécimal](#l'hexadecimal)
+- [Convertir Décimal -> Binaire](#convertir-decimal-->-Binaire)
+- [Convertir Décimal -> Héxadécimal](#convertir-decimal-->-hexadecimal)
+- [Convertir Binaire -> Décimal](#convertir-binaire-->-decimal)
+- [Convertir Binaire -> Décimal](#convertir-binaire-->decimal)
+- [Convertir Hexadécimal -> Binaire](#convertir-hexadecimal-->-binaire)
+- [Convertir Hexadécimal -> Décimal](#convertir-hexadecimal-->-Decimal)
 
 Il existe de nombreux systèmes de numération, mais les informaticiens n'en fréquentent en général que trois : 
 
