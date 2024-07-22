@@ -7,7 +7,7 @@ categories: junk
 ---
 
 ### Index 
-- [les Systèmes de Numération, les bases](#les-systemes-de-numeration,-les-bases)
+- [les Systèmes de Numération](#les-systemes-de-numeration)
 - [Le Décimal](#Le-decimal)
 - [Le Binaire](#Le-binaire)
 - [L'Hexadécimal](#l'hexadecimal)
@@ -16,7 +16,7 @@ categories: junk
 - [Convertir Binaire -> Décimal](#convertir-binaire-->-decimal)
 - [Convertir Binaire -> Décimal](#convertir-binaire-->decimal)
 - [Convertir Hexadécimal -> Binaire](#convertir-hexadecimal-->-binaire)
-- [Convertir Hexadécimal -> Décimal](#convertir-hexadecimal-->-Decimal)
+- [Convertir Hexadécimal -> Décimal](#convertir-hexadecimal-->-decimal)
 
 Il existe de nombreux systèmes de numération, mais les informaticiens n'en fréquentent en général que trois : 
 
@@ -28,7 +28,7 @@ Dans ce post nous verrons une petite introduction aux systèmes de numération, 
 
 ---
 
-## les Systèmes de Numération, les bases 
+## les Systèmes de Numération
 
 Un système de numération nous permet de structurer notre manière de compter. Il repose sur une base. 
 On appelle "base" le nombre d'unités dont on dispose avant de c. Par exemple, quand on ne compte que sur les 5 doigts d'une seule main, on compte en base 5. Si l'on utilise nos 10 doigts, on passe en base 10, en décimal donc. La légende raconte que l'inventeur de l'hexadécimal avait 16 doigts, et qu'il était un pianiste hors pair.
