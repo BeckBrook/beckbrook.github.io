@@ -6,10 +6,17 @@ categories: junk
 #meta: "Springfield"
 ---
 
-# Menu 
-- [les Systèmes de Numération, les bases](##les Systèmes de Numération, les bases)
-
-
+### Index 
+- [les Systèmes de Numération, les bases](## les Systèmes de Numération, les bases)
+- [Le Décimal](##Le Décimal)
+- [Le Binaire](## Le Binaire)
+- [L'Hexadécimal](## L'Hexadécimal)
+- [Convertir Décimal -> Binaire](## Convertir Décimal -> Binaire)
+- [Convertir Décimal -> Héxadécimal](## Convertir Décimal -> Héxadécimal)
+- [Convertir Binaire -> Décimal](## Convertir Binaire -> Décimal)
+- [Convertir Binaire -> Décimal](## Convertir Binaire -> Décimal)
+- [Convertir Hexadécimal -> Binaire](## Convertir Hexadécimal -> Binaire)
+- [Convertir Hexadécimal -> Décimal](## Convertir Hexadécimal -> Décimal)
 
 Il existe de nombreux systèmes de numération, mais les informaticiens n'en fréquentent en général que trois : 
 
@@ -21,6 +28,11 @@ Dans ce post nous verrons une petite introduction aux systèmes de numération, 
 
 
 ## les Systèmes de Numération, les bases 
+
+Un système de numération nous permet de structurer notre manière de compter. Il repose sur une base. 
+On appelle "base" le nombre d'unités dont on dispose avant de revenir à 0. Par exemple, quand on ne compte que sur les 5 doigts d'une seule main, on compte en base 5. Si l'on utilise nos 10 doigts, on passe en base 10, en décimal donc. La légende raconte que l'inventeur de l'hexadécimal avait 16 doigts, et qu'il était un pianiste hors pair.
+
+
 ## Le Décimal
 ## Le Binaire
 ## L'Hexadécimal
@@ -28,7 +40,6 @@ Dans ce post nous verrons une petite introduction aux systèmes de numération, 
 ## Convertir Décimal -> Héxadécimal
 ## Convertir Binaire -> Décimal
 ## Convertir Binaire -> Héxadécimal
-## Convertir Binaire -> Décimal
 ## Convertir Hexadécimal -> Binaire
 ## Convertir Hexadécimal -> Décimal
 
