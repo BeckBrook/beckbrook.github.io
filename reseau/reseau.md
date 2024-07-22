@@ -10,6 +10,7 @@ Dans cette catégorie, vous trouverez des pistes et des conseils pour appréhend
 
 ## Index 
 
-- [Comprendre et convertir le binaire, l'héxadécimal](/langages.md)
+- [les notations binaires, l'héxadécimales et décimales](/hexaBinDeci.md)
 - [Unités de mesure](/unitesDeMesure.md)
 - [Adressage IP et Masques](/IP.md)
+
