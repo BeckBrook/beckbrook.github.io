@@ -7,16 +7,16 @@ categories: junk
 ---
 
 ### Index 
-- [les Systèmes de Numération](#les-systemes-de-numeration)
-- [Le Décimal](#le-decimal)
+- [les Systèmes de Numération](#les-systèmes-de-numération)
+- [Le Décimal](#le-décimal)
 - [Le Binaire](#le-binaire)
-- [L'Hexadécimal](#l'hexadecimal)
-- [Convertir Décimal -> Binaire](#convertir-decimal-vers-binaire)
-- [Convertir Décimal -> Héxadécimal](#convertir-decimal-vers-hexadecimal)
-- [Convertir Binaire -> Décimal](#convertir-binaire-vers-decimal)
-- [Convertir Binaire -> Décimal](#convertir-binaire-vers-decimal)
+- [L'Hexadécimal](#l'hexadécimal)
+- [Convertir Décimal -> Binaire](#convertir-décimal-vers-binaire)
+- [Convertir Décimal -> Héxadécimal](#convertir-décimal-vers-hexadécimal)
+- [Convertir Binaire -> Décimal](#convertir-binaire-vers-décimal)
+- [Convertir Binaire -> Décimal](#convertir-binaire-vers-décimal)
 - [Convertir Hexadécimal -> Binaire](#convertir-hexadecimal-vers-binaire)
-- [Convertir Hexadécimal -> Décimal](#convertir-hexadecimal-vers-decimal)
+- [Convertir Hexadécimal -> Décimal](#convertir-hexadecimal-vers-décimal)
 
 Il existe de nombreux systèmes de numération, mais les informaticiens n'en fréquentent en général que trois : 
 
@@ -56,18 +56,21 @@ Le binaire est un système de numération très répandu en informatique. Concr�
 
 C'est aussi un langage, utilisé par les systèmes informatiques. Pourquoi ? Premièrement, c'est ce qui permet à la machine de ne pas faire de distinction entre plusieurs niveaux de tension quand elle a à faire à un signal électrique à traiter. En appliquant le binaire : soit il y a du courant (même s'il est élevé ou faible, on s'en fiche), soit il n'y en a pas. Donc on a fini par reposer sur la logique dite 'booléenne' (le fameux true ou false, vrai ou faux), pour plus de précision sur les calculs booléens, voir [l'Algèbre de Boole (logique) sur Wikipédia](https://fr.wikipedia.org/wiki/Alg%C3%A8bre_de_Boole_(logique)) (PS : on y reviendra pour le calcul des masques de sous-réseau !)
 
-Maintenant, tentons de comprendre pourquoi 1+1=11, et que 1+1+1=101 !
-Voici un tableau qui nous montre comment sont codés les chiffres que nous connaissons en binaire
+Maintenant, tentons de comprendre pourquoi 1+1=10, et que 1+1+1=11 ! 
 
-|1|1|1|1|1|1|
-|||||||
+Pour traduire ces chiffres, puisque nous sommes en base 2, nous aurons besoin des puissances de 2. Et d'un tableau : 
+
+|2^...|2^4|2^3|2^2|2^1|2^0|
+|...|32|16|8|4|2|1|
+
 
 
 
 
 
 > Bonus : mention nerd 
-> La manière de noter en binaire ne date pas de l'ère digitale, les traces les plus anciennes d'une base 2 que l'on connaisse datent...d'environ 750 av J.C ! Dans un écrit chinois, le 'Yi Jing', on y retrouve des 'hexagrammes' construits à partir de deux 'trigrammes' eux-mêmes constitués de deux possibilités : soit un trait plein, soit deux petits traits. mon préféré ressemble à un short : ䷓ (l'éclatement). Toutefois, ces caractères ne servaient pas pour le calcul et ne constituaient pas en soi un système de numération tels qu'ils sont présentés dans cette oeuvre. 
+> 
+> La manière de noter en binaire ne date pas de l'ère digitale, les traces les plus anciennes d'une base 2 que l'on connaisse datent...d'environ 750 av J.C ! Dans un écrit chinois, le 'Yi Jing', on y retrouve des 'hexagrammes', des caractères construits à partir de deux 'trigrammes' eux-mêmes constitués de deux possibilités : soit un trait plein, soit deux petits traits. exemple : ䷓ (l'éclatement). 
 
 
 
