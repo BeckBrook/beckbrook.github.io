@@ -60,9 +60,9 @@ Maintenant, tentons de comprendre pourquoi 1+1=10, et que 1+1+1=11 !
 
 Pour traduire ces chiffres, puisque nous sommes en base 2, nous aurons besoin des puissances de 2. Et d'un tableau : 
 
-| $2^...$ | 2^8 | $2^7$ | $2^6$ | $2^5$ | $2^4$ | $2^3$ | $2^2$ | $2^1$ | $2^0$ |
-|...|64|32|16|8|4|2|1|
-|...|0 ou 1|0 ou 1|0 ou 1|0 ou 1|0 ou 1|0 ou 1|0 ou 1|
+| 2^...| 2^6 | 2^5 | 2^4 | 2^3 | 2^2 | 2^1 | 2^0 |
+|...   |   64|   32|   16|    8|    4|    2|    1|
+|...   |0 ou 1|0 ou 1|0 ou 1|0 ou 1|0 ou 1|0 ou 1|0 ou 1|
 
 
 
