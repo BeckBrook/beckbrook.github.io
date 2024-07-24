@@ -104,15 +104,39 @@ Si l'on suit la même logique, on se retrouve avec ce tableau pour les chiffres 
 
 > Bonus : mention nerd 
 > 
-> La manière de noter en binaire ne date pas de l'ère digitale, les traces les plus anciennes d'une base 2 que l'on connaisse datent...d'environ 750 av J.C ! Dans un écrit chinois, le 'Yi Jing', on y retrouve des 'hexagrammes', des caractères construits à partir de deux 'trigrammes' eux-mêmes constitués de deux possibilités : soit un trait plein, soit deux petits traits. exemple : ䷓ (l'éclatement). 
+> La manière de noter en binaire ne date pas de l'ère de l'informatique, les traces les plus anciennes d'une base 2 que l'on connaisse datent...d'environ 750 av J.C ! Dans un écrit chinois, le 'Yi Jing', on y retrouve des 'hexagrammes', des caractères construits à partir de deux 'trigrammes' eux-mêmes constitués de deux possibilités : soit un trait plein, soit deux petits traits. exemple : ䷓ (l'éclatement). 
 
 
 
 ## L'Hexadécimal
+
+Comme le décimal compte avec 10 numéros, le binaire avec 2 numéros, l'hexadécimal compte avec 16 numéros. Mais comment symbolise-t'on ces 'numéros' lorsqu'ils dépassent 9 ? 
+En hexadécimal, on utilise les premières lettres de l'alphabet après avoir épuisé les numéros que l'on a récupéré du système décimal, ce qui revient à compter avec ces caractères : 
+
+|0|1|2|3|4|5|6|7|8|9|A|B|C|D|E|F|
+
+L'informatique est un monde fabuleux où l'on compte aussi avec des lettres. Pourquoi a-t'on décidé de compter en hexadécimal ? Parce qu'avoir autant de caractères de base pour former un nombre nous permettra de stocker plus facilement celui-ci, on a donc un gain de place ! 
+On retrouve ainsi l'hexadécimal dans de nombreux cas où l'on a besoin d'avoir des tonnes de possibilités, dans un nombre de caractères réduits, par exemple : 
+- Dans les addresses MAC ex. "5E:FF:56:A2:AF:15" et les adresses IPv6 ex. "2001:db8:0:85a3:0:0:ac1f:8001"
+- pour coder les couleurs ! par exemple, le blanc, c'est #ffffff et le noir, c'est #000000. vous pouvez voir l'éventail de possibilités qu'offre l'héxadécimal appliqué aux couleurs sur ce [Sélecteur de couleurs (W3schools)](https://www.w3schools.com/colors/colors_picker.asp)
+
+Mais comment compter en hexadécimal ? 
+
+déjà, c'est très facile de compter de 1 à 9, pour des raisons évidentes, et enfin de 10 à 16, il suffit de connaître son alphabet jusqu'à F :
+- 10 (décimal) = A (hexadécimal)
+- 11 (décimal) = B (hexadécimal)
+- ..
+- 16 (décimal) = F (hexadécimal)
+
+Un bon site pour [apprendre l'alphabet (logicieleducatif.fr)](https://www.logicieleducatif.fr/jeu/l-alphabet).
+
+Mais une fois que l'on veut dépasser F, comment faire ? 
+
+
 ## Convertir Décimal vers Binaire
-## Convertir Décimal vers Héxadécimal
+## Convertir Décimal vers Hexadécimal
 ## Convertir Binaire vers Décimal
-## Convertir Binaire vers Héxadécimal
+## Convertir Binaire vers Hexadécimal
 ## Convertir Hexadécimal vers Binaire
 ## Convertir Hexadécimal vers Décimal
 
