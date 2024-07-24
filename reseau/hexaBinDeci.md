@@ -60,9 +60,9 @@ Maintenant, tentons de comprendre pourquoi 1+1=10, et que 2+1=11 !
 
 Pour traduire ces chiffres, puisque nous sommes en base 2, nous aurons besoin des puissances de 2. Et d'un tableau : 
 
-| 2^...| 2^6 | 2^5 | 2^4 | 2^3 | 2^2 | 2^1 | 2^0 |
-|...   |   64|   32|   16|    8|    4|    2|    1|
-|...   |0 ou 1|0 ou 1|0 ou 1|0 ou 1|0 ou 1|0 ou 1|0 ou 1|
+|**Puissances**| 2^...| 2^6 | 2^5 | 2^4 | 2^3 | 2^2 | 2^1 | 2^0 |
+|**Décimal**|...   |   64|   32|   16|    8|    4|    2|    1|
+|**Binaire**|...   |0 ou 1|0 ou 1|0 ou 1|0 ou 1|0 ou 1|0 ou 1|0 ou 1|
 
 Si l'on veut un 1 en décimal, alors nous devons remplir une seule et unique case, la toute dernière. 
 
@@ -82,7 +82,7 @@ pour le 3, on sait qu'il peut se former avec 2 et 1, donc on remplit deux cases 
 
 Si l'on suit la même logique, on se retrouve avec ce tableau pour les chiffres de 1 à 15 par exemple : 
 
-|décimal|binaire|
+|**Décimal**|**Binaire**|
 |0|0|
 |1|1|
 |1|01|
@@ -120,8 +120,8 @@ Pourquoi a-t'on décidé de compter en hexadécimal ? Parce qu'avoir autant de c
 Comme le décimal compte avec 10 numéros, le binaire avec 2 numéros, l'hexadécimal compte avec 16 numéros. Mais comment symbolise-t'on ces 'numéros' lorsqu'ils dépassent 9 ? 
 En hexadécimal, on utilise les premières lettres de l'alphabet après avoir épuisé les numéros que l'on a récupéré du système décimal, ce qui revient à compter avec ces caractères : 
 
-|0|1|2|3|4|5|6|7|8|9|A|B|C|D|E|F|
-|0|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|
+|**Hexadécimal**|0|1|2|3|4|5|6|7|8|9|A|B|C|D|E|F|
+|**Décimal**|0|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|
 
 
 Mais une fois que l'on veut dépasser F, comment faire ? 
