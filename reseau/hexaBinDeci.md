@@ -56,13 +56,51 @@ Le binaire est un système de numération très répandu en informatique. Concr�
 
 C'est aussi un langage, utilisé par les systèmes informatiques. Pourquoi ? Premièrement, c'est ce qui permet à la machine de ne pas faire de distinction entre plusieurs niveaux de tension quand elle a à faire à un signal électrique à traiter. En appliquant le binaire : soit il y a du courant (même s'il est élevé ou faible, on s'en fiche), soit il n'y en a pas. Donc on a fini par reposer sur la logique dite 'booléenne' (le fameux true ou false, vrai ou faux), pour plus de précision sur les calculs booléens, voir [l'Algèbre de Boole (logique) sur Wikipédia](https://fr.wikipedia.org/wiki/Alg%C3%A8bre_de_Boole_(logique)) (PS : on y reviendra pour le calcul des masques de sous-réseau !)
 
-Maintenant, tentons de comprendre pourquoi 1+1=10, et que 1+1+1=11 ! 
+Maintenant, tentons de comprendre pourquoi 1+1=10, et que 2+1=11 ! 
 
 Pour traduire ces chiffres, puisque nous sommes en base 2, nous aurons besoin des puissances de 2. Et d'un tableau : 
 
 | 2^...| 2^6 | 2^5 | 2^4 | 2^3 | 2^2 | 2^1 | 2^0 |
 |...   |   64|   32|   16|    8|    4|    2|    1|
 |...   |0 ou 1|0 ou 1|0 ou 1|0 ou 1|0 ou 1|0 ou 1|0 ou 1|
+
+Si l'on veut un 1 en décimal, alors nous devons remplir une seule et unique case, la toute dernière. 
+
+
+on arrivee avec un joli ...00000001, dans ce cas là les 0 à gauche sont inutiles, en les enlevant, on se retrouve avec : 
+1 (décimal) = 1 (binaire)
+
+maintenant pour 2, on regarde le tableau, et cette fois nous n'avons pas besoin du 1, mais du 2 de la case à gauche ! plus précisément le 2^1, donc on a 000000010, on peut enlever les 0 de gauche mais surtout pas celui de droite, qui indique que nous n'avons pas besoin du 1 ! donc cette fois : 
+2 (décimal) = 10 (binaire)
+
+pour le 3, on sait qu'il peut se former avec 2 et 1, donc on remplit deux cases du tableau : 
+3 (décimal) = 11 (binaire)
+
+
+Si l'on suit la même logique, on se retrouve avec ce tableau pour les chiffres de 1 à 15 par exemple : 
+
+|décimal|binaire|
+|0|0|
+|1|1|
+|1|01|
+|3|11|
+|4|100|
+|5|101|
+|6|110|
+|7|111|
+|8|1000|
+|9|1001|
+|10|1010|
+|11|1011|
+|12|1100|
+|13|1101|
+|14|1110|
+|15|1111|
+
+
+
+
+
 
 
 
