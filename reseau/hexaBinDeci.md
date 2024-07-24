@@ -68,12 +68,15 @@ Si l'on veut un 1 en décimal, alors nous devons remplir une seule et unique cas
 
 
 on arrivee avec un joli ...00000001, dans ce cas là les 0 à gauche sont inutiles, en les enlevant, on se retrouve avec : 
+
 1 (décimal) = 1 (binaire)
 
 maintenant pour 2, on regarde le tableau, et cette fois nous n'avons pas besoin du 1, mais du 2 de la case à gauche ! plus précisément le 2^1, donc on a 000000010, on peut enlever les 0 de gauche mais surtout pas celui de droite, qui indique que nous n'avons pas besoin du 1 ! donc cette fois : 
+
 2 (décimal) = 10 (binaire)
 
 pour le 3, on sait qu'il peut se former avec 2 et 1, donc on remplit deux cases du tableau : 
+
 3 (décimal) = 11 (binaire)
 
 
@@ -96,14 +99,6 @@ Si l'on suit la même logique, on se retrouve avec ce tableau pour les chiffres 
 |13|1101|
 |14|1110|
 |15|1111|
-
-
-
-
-
-
-
-
 
 
 
