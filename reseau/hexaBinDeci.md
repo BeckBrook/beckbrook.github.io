@@ -10,7 +10,7 @@ categories: junk
 - [les Systèmes de Numération](#les-systèmes-de-numération)
 - [Le Décimal](#le-décimal)
 - [Le Binaire](#le-binaire)
-- [L'Hexadécimal](#l'hexadécimal)
+- [L'Hexadécimal](#l-hexadécimal)
 - [Convertir Décimal -> Binaire](#convertir-décimal-vers-binaire)
 - [Convertir Décimal -> Héxadécimal](#convertir-décimal-vers-hexadécimal)
 - [Convertir Binaire -> Décimal](#convertir-binaire-vers-décimal)
@@ -132,10 +132,32 @@ Un bon site pour [apprendre l'alphabet (logicieleducatif.fr)](https://www.logici
 
 Mais une fois que l'on veut dépasser F, comment faire ? 
 
+En décimal, par exemple, 33 signifie 3 dizaines et 3 unités.
+
+En hexadécimal, étant donné que l'on compte en seizaines, un chiffre comme 5A doit se lire comme "5 seizaines et A unités (donc 10)" alors on a 5*16+10 = 90
+
 
 ## Convertir Décimal vers Binaire
+
+Il existe de nombreuses techniques pour convertir le décimal en binaire, voici la technique de Division/Reste
+
+
+
 ## Convertir Décimal vers Hexadécimal
+
+
+
+
+
+
 ## Convertir Binaire vers Décimal
+
+Pour passer du binaire au décimal, on va traver un tableau : 
+
+
+||test de balises de spoil||
+
+
 ## Convertir Binaire vers Hexadécimal
 ## Convertir Hexadécimal vers Binaire
 ## Convertir Hexadécimal vers Décimal
