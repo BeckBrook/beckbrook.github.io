@@ -139,17 +139,32 @@ Il existe de nombreuses techniques pour convertir le décimal en binaire, voici 
 
 ## Convertir Décimal vers Hexadécimal
 
-
-
-
+[dessins à venir]
 
 
 ## Convertir Binaire vers Décimal
 
-Pour passer du binaire au décimal, on va traver un tableau : 
+Pour passer du binaire au décimal : 
+1. tracer un tableau à deux lignes
+2. remplir la première ligne avec les puissances de 2, de la plus élevée à la moins élevée (la dernière doit être 2^0 = 1, sinon tout sera faussé) 
+3. Remplir la seconde ligne avec le chiffre binaire, un caractère par case
+4. Faire l'addition des puissances où l'on retrouve 1 dans la colonne, ignorer celles où l'on retrouve 0
+5. On a pu reconstituer à la main le nombre binaire. 
 
+> Exemple : 
+> 
+>  On a le binaire 01011011
+>
+> ### Le tableau 
+>  On se retrouve donc avec ce tableau, avec à la première ligne la liste des puissances de 2, et à la seconde le nombre binaire que nous voulons convertir : 
+> |128|64|32|16|8|4|2|1|
+> |0|1|0|1|1|0|1|1|
+>  
+>  Maintenant, on additionne les nombres se trouvant dans la même colonne qu'un 1.
+>  64 + 16 + 8 + 2 + 1 = 91
+> 
+>  Donc, 01011011 = 91
 
-||test de balises de spoil||
 
 
 ## Convertir Binaire vers Hexadécimal
