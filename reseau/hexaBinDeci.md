@@ -162,7 +162,8 @@ Pour passer du binaire au décimal :
 > |0|<span style="color:blue">*1*</span>|0|<span style="color:blue">*1*</span>|<span style="color:blue">*1*</span>|0|<span style="color:blue">*1*</span>|<span style="color:blue">*1*</span>|
 >  
 >  Maintenant, on additionne les nombres se trouvant dans la même colonne qu'un 1.
->  64 + 16 + 8 + 2 + 1 = 91
+>
+>  Décimal = 64 + 16 + 8 + 2 + 1 = 91
 > 
 >  Donc, 01011011 = 91
 
