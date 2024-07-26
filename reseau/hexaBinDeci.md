@@ -158,8 +158,8 @@ Pour passer du binaire au décimal :
 > ### Le tableau 
 >  On se retrouve donc avec ce tableau, avec à la première ligne la liste des puissances de 2, et à la seconde le nombre binaire que nous voulons convertir : 
 >
-> |128| <span style="color:blue">*64*</span>64|32|16|8|4|2|1|
-> |0|1|0|1|1|0|1|1|
+> |128| <span style="color:blue">*64*</span>|32|<span style="color:blue">*16*</span>|<span style="color:blue">*8*</span>|4|<span style="color:blue">*2*</span>|<span style="color:blue">*1*</span>|
+> |0|<span style="color:blue">*1*</span>|0|<span style="color:blue">*1*</span>|<span style="color:blue">*1*</span>|0|<span style="color:blue">*1*</span>|<span style="color:blue">*1*</span>|
 >  
 >  Maintenant, on additionne les nombres se trouvant dans la même colonne qu'un 1.
 >  64 + 16 + 8 + 2 + 1 = 91
