@@ -196,10 +196,27 @@ On vient d'apprendre à faire ces deux conversions, pas besoin d'en savoir plus 
 
 ## Convertir Hexadécimal vers Décimal
 
-Mainteant pour ce qui est de l'hexadécimal, on a vu que nous comptions en base 16 
+on a un nombre décimal, par exemple : A8
+Vu que l'on est en base 16, chaque chaque partie du nombre est un multiple de 16, ce qui nous mène à un nouveau tableau ! 
+
+|**Puissances**| 16^...| 16^3 (4096) | 16^2 (256) | 16^1 (16) | 16^0 (1) |
+|**Notre Nombre**|...   |  0 |  0  |  A  |  8  |
+
+On a vu qu'en hexadécimal, A = 10.
+Donc il ne nous reste plus qu'à additionner le tout : 
+
+A8(hexadécimal) = 16 x 10 + 1 x 8 = 168(décimal)
+
+
 ## Convertir Hexadécimal vers Binaire
 
-Convertir l'
+Pareil, on peut se faciliter la tâche en convertissant en deux étapes : 
+
+1. Convertir l'Hexadécimal en Décimal
+2. Convertir le Décimal en Binaire
+
+On vient d'apprendre à faire ces deux conversions, pas besoin d'en savoir plus sur ce coup là !
+
 
 
 
