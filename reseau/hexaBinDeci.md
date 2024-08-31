@@ -134,9 +134,19 @@ En hexadécimal, étant donné que l'on compte en seizaines, un chiffre comme 5A
 
 ## Convertir Décimal vers Binaire
 
-Il existe de nombreuses techniques pour convertir le décimal en binaire, voici la technique de Division/Reste
+Il existe de nombreuses techniques pour convertir le décimal en binaire, voici la technique de Division/Reste :
+Prenons par exemple 25 (décimal) que l'on veut en binaire : 
 
+Nous allons devoir le diviser par 2 jusqu'à le réduire à 0 ! Ce qui nous intéresse, c'est de savoir s'il nous reste un 1 ou un 0 à chaque division. 
 
+25/2 = 12 reste 1
+12/2 =  6 reste 0
+ 6/2 =  3 reste 0
+ 3/2 =  1 reste 1
+ 1/2 =  0 reste 1
+
+Maintenant, on lit les restes de BAS EN HAUT.
+On a donc : 25 (décimal) = 11001 (binaire)
 
 ## Convertir Décimal vers Hexadécimal
 
