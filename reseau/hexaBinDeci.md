@@ -146,12 +146,16 @@ Nous allons devoir le diviser par 2 jusqu'à le réduire à 0 ! Ce qui nous int�
 -  1/2 =  0 reste 1
 
 Maintenant, on lit les restes de BAS EN HAUT.
-On a donc : 25 (décimal) = 11001 (binaire)
+On a donc : 25(décimal) = 11001(binaire)
 
 ## Convertir Décimal vers Hexadécimal
 
-[dessins à venir]
+Vous savez maintenant convertir le Décimal en Binaire. Convertir le Décimal vers l'Hexadécimal suit la même logique. Reprenons notre 25 (décimal) de tout à l'heure. Au lieu de le couper en deux à chaque fois, on va le couper en 16, en gardant toujours le reste dans un coin :
+- 25/16 = 1 reste 9
+- 1/16 = reste 1
 
+Maintenant on lit les restes de BAS en HAUT. (comme pour le binaire)
+On a donc : 25(décimal) = 19(hexadécimal)
 
 ## Convertir Binaire vers Décimal
 
@@ -181,6 +185,21 @@ Pour passer du binaire au décimal :
 
 
 ## Convertir Binaire vers Hexadécimal
-## Convertir Hexadécimal vers Binaire
+
+On peut se faciliter la tâche en convertissant en deux étapes : 
+
+
+1. Convertir le Binaire en Décimal
+2. Convertir le Décimal en Hexadécimal
+
+On vient d'apprendre à faire ces deux conversions, pas besoin d'en savoir plus sur ce coup là !
+
 ## Convertir Hexadécimal vers Décimal
+
+Mainteant pour ce qui est de l'hexadécimal, on a vu que nous comptions en base 16 
+## Convertir Hexadécimal vers Binaire
+
+Convertir l'
+
+
 
