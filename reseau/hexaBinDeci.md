@@ -25,6 +25,7 @@ Il existe de nombreux systèmes de numération, mais les informaticiens n'en fr�
 - l'*héxadécimal*, un système de "base 16"
 
 Dans ce post nous verrons une petite introduction aux systèmes de numération, les définitions et dans quel contexte on rencontre ces systèmes de numération. Enfin, on verra comment effectuer des conversion d'un système de numération à un autre. 
+![GarsQuiCompte](img/garsQuiCompte.jpg)
 
 ---
 
