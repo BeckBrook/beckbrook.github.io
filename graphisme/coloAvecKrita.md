@@ -11,10 +11,10 @@ categories: graphisme
 - [Prérequis](#prérequis)
 - [Scanner son dessin](#scanner-son-dessin)
 - [Présentation de Krita](#présentation-de-krita)
-- [Création d'un nouveau fichier et importation du scan](#création-d'un-nouveau-fichier-et-importation-du-scan)
+- [Création d'un nouveau fichier et importation du scan](#création-du-nouveau-fichier-et-importation-du-scan)
 - [Mise au propre des lignes](#mise-au-propre-des-lignes)
 - [Isoler les lignes sur un nouveau calque](#isoler-les-lignes-sur-un-nouveau-calque)
-- [Colorisation, plusieurs techniques](#colorisation,-plusieurs-techniques)
+- [Colorisation, plusieurs techniques](#colorisation-plusieurs-techniques)
 
 
 Alors ça y est, vous venez de finir l'encrage d'un dessin sur feuille, et vous voudriez passez à la colorisation en numérique. Dans ce tutoriel, nous verrons comment scanner, ouvrir son dessin dans un nouveau fichier Krita, et passer à la colorisation sans se mordre les doigts ! 
@@ -55,7 +55,7 @@ Krita est un logiciel de graphisme très prisé par les dessinateurs pour trois 
 
 - Note : Les outils que nous allons utiliser dans la suite du tutoriel sont des outils que l'on peut aussi retrouver sur [Gimp](https://www.gimp.org/), mais ils n'ont parfois pas le même nom ni le même emplacement. Ici il s'agit surtout de vous montrer des techniques pour faciliter la colorisation d'un dessin traditionnel à partir d'un logiciel de traitement d'image. 
 
-## Création d'un nouveau fichier et importation du scan
+## Création du nouveau fichier et importation du scan
 
 
 ### Technique 1 : Ouvrir directement le fichier dans krita puis le sauvegarder en tant que fichier Krita (.kra)
@@ -65,15 +65,15 @@ C'est la techique la plus simple et rapide, mais aussi celle qui vous donnera mo
 Ouvrir Krita Aller sur Fichier > Ouvrir (raccourci : Ctrl + O)
 Sélectionner le dessin que nous avons scanné, l'ouvrir. 
 
-Il va s'ouvrir en tant qu'Arrière plan, dans les calques (à droite sur la fenêtre). 
-Double-cliquer sur son nom et le renommer 'scan' ou 'numérisation' 
-Créer un nouveau calque et le placer en dessous du scan
-Double-cliquer sur son nom et le renommer 'fond' ou 'Arrière-plan'
-Se positionner sur le calque de fond
-Sélectionner le pot de peinture (raccourci : F), la couleur blanche, et cliquez pour peindre tout le calque en blanc
-Sauvegarder le fichier : Fichier > Enregistrer Sous... (raccourci Ctrl + Maj + S)
-Sélectionner l'emplacement
-Dans le menu déroulant des formats, sélectionner le format Krita (.kra)
+- Il va s'ouvrir en tant qu'Arrière plan, dans les calques (à droite sur la fenêtre). 
+- Double-cliquer sur son nom et le renommer 'scan' ou 'numérisation' 
+- Créer un nouveau calque et le placer en dessous du scan
+- Double-cliquer sur son nom et le renommer 'fond' ou 'Arrière-plan'
+- Se positionner sur le calque de fond
+- Sélectionner le pot de peinture (raccourci : F), la couleur blanche, et cliquez pour peindre tout le calque en blanc
+- Sauvegarder le fichier : Fichier > Enregistrer Sous... (raccourci Ctrl + Maj + S)
+- Sélectionner l'emplacement
+- Dans le menu déroulant des formats, sélectionner le format Krita (.kra)
 Valider
 
 ### Technique 2 : Créer un nouveau fichier Krita (.kra) et importer le scan en tant que calque du fichier 
@@ -86,7 +86,7 @@ Nous avons maintenant une nouvelle fenêtre proposant de nombreuses options. Avi
 
 1. Dans Dimensions, Taille de l'image, dans la section Prédeinie : cliquer le menu déroulant
 2. Sélectionner A4 (300ppi si vous avez scanné avec 300ppi, ou 6000)
-3. Dans la section hauteur, définir au minimum 1080 Pixels 
+3. Dans la section hauteur, définir au minimum 1280 Pixels 
 4. Dans la section largeur, définir au minimum 720 Pixels
 5. Si vous travaillez sur un format paysage, inversez les deux valeurs ou cliquez sur l'icône à côté du menu déroulant 'Prédefinie' qui correspond à votre orientation d'image
 
@@ -101,16 +101,16 @@ Krita va vous demander de quelle manière vous souhaitez importer ce fichier, et
 
 Vous pouvez aussi ouvrir votre scan dans Krita en utilisant : Fichier > Ouvrir (raccourci : Ctrl + O) et ensuite copier (raccourci : Ctrl + C), puis coller le scan sur votre fichier Krita (raccourci : Ctrl + V), à partir de là, vous aurez le même choix que pour la technique du glissé-déposé évoquée plus tôt. Sélectionnez "Insérer en tant que nouveau calque."
 
-Si votre Arrière-plan est transparent : 
-Sélectionnez le pot de peinture (raccourci : F)
-Sélectinnez la couleur Blanc
-Assurez-vous que vous êtes bien sur le calque "Arrière-plan"
-Cliquez pour peindre le calque en blanc
+- Si votre Arrière-plan est transparent : 
+- Sélectionnez le pot de peinture (raccourci : F)
+- Sélectinnez la couleur Blanc
+- Assurez-vous que vous êtes bien sur le calque "Arrière-plan"
+- Cliquez pour peindre le calque en blanc
 
 Sauvegardez votre nouveau fichier. 
 
-## mise-au-propre-des-lignes
-## isoler-les-lignes-sur-un-nouveau-calque
-## colorisation,-plusieurs-techniques
+## Mise au propre des lignes
+## Isoler les lignes sur un nouveau calque
+## Colorisation, plusieurs techniques
 
 
