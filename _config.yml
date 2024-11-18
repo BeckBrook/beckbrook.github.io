@@ -30,6 +30,7 @@ plugins:
 header_pages:
   - reseau/reseau.md
   - gestion-pjt/gestion-pjt.md
+  - graphisme/graphisme.md
   #- test.md
   - bio.md
   
