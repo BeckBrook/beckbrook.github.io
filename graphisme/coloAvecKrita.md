@@ -164,6 +164,7 @@ En vous habituant à cette petite technique, vous allez vous familiariser avec d
 - Ctrl + Z : Annuler l'action 
 - Suppr : Effacer le contenu de la sélection 
 - Ctrl + Maj + A : Tout déselectionner 
+- Avec l'outil de sélection : Maj enfoncée pour rajouter une zone de sélection
 
 
 
