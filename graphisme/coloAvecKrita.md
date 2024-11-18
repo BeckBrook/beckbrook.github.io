@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Comment mettre en couleur un encrage traditionnnel sur Krita"
+title: "Comment mettre en couleur un encrage traditionnel sur Krita"
 categories: graphisme 
 
 #meta: "Springfield"
