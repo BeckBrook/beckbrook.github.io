@@ -85,8 +85,8 @@ Si l'on suit la même logique, on se retrouve avec ce tableau pour les chiffres 
 
 |**Décimal**|**Binaire**|
 |0|0|
-|1|1|
-|1|01|
+|1|1 ou 01|
+|2|10|
 |3|11|
 |4|100|
 |5|101|
