@@ -101,16 +101,69 @@ Krita va vous demander de quelle manière vous souhaitez importer ce fichier, et
 
 Vous pouvez aussi ouvrir votre scan dans Krita en utilisant : Fichier > Ouvrir (raccourci : Ctrl + O) et ensuite copier (raccourci : Ctrl + C), puis coller le scan sur votre fichier Krita (raccourci : Ctrl + V), à partir de là, vous aurez le même choix que pour la technique du glissé-déposé évoquée plus tôt. Sélectionnez "Insérer en tant que nouveau calque."
 
-- Si votre Arrière-plan est transparent : 
+**Si votre Arrière-plan est transparent :**
 - Sélectionnez le pot de peinture (raccourci : F)
 - Sélectinnez la couleur Blanc
 - Assurez-vous que vous êtes bien sur le calque "Arrière-plan"
 - Cliquez pour peindre le calque en blanc
 
+**Si votre image importée est plus grande que la surface de travail du fichier que vous venez de créer**
+- Assurez-vous d'être sur le calque du scan importé
+- Sélectionnez l'outil 'Transformer un calque ou une Sélection' (raccourci : Ctrl + T)
+- Tout en maintenant la touche Maj enfoncée, adaptez la taille du scan à votre fichier
+
+
 Sauvegardez votre nouveau fichier. 
 
 ## Mise au propre des lignes
+
+Maintenant que notre fichier est paré, on va pouvoir mettre au propre les lignes. Ce ique l'on veut, ici, c'est avoir une nette démarquation entre les traits et le fond de la feuille, et faire disparaître au mieux les nuances de gris. 
+
+- Aller sur le calque du scan
+- Aller dans Filtre > Ajuster > Densité +-
+- Dans le menu, sélectionner Ombres : vous allez voir un curseur prédéfini à 50
+- Régler le curseur pour assombrir les gris, j'ai pour l'habitude de le régler au maximum, ce qui supprime toute demi-teinte non voulue.
+
+Note, dans Filtre > Ajuster, il y a d'autres moyens d'ajuster les teintes pour passer les gris en noir, mais la technique ci-dessus est la plus rapide que j'aie pu trouver dans ce menu. 
+
+
 ## Isoler les lignes sur un nouveau calque
+
+Maintenant que nous avons un encrage bien délimité, il faut à présent le détacher du fond blanc. On pourrait gommer les zones en blanc et ne laisser que les zones en noir pour isoler ces lignes, ou sélectionner ces zones à la main (ou plutôt la souris) et supprimer leur contenu une à une, mais il existe une technique bien moins chronophage. Il est possible de sélectionner une couleur sur un calque et de tout simplement la supprimer dans son entièreté en un seul clic ! Pour faire ceci, suivre ces étapes : 
+
+- s'assurer que l'on est bien sur le calque du scan que nous avons importé
+- Sélectionner l'outil Sélection par la couleur 
+- En appuyant sur Maj, vous verrez apparaître un petit plus à côté de votre curseur, ce qui veu dire que vous allez rajouter de la surface à votre sélection
+- En gardant Maj enfoncée, cliquez sur la partie blanche de votre dessin
+- Ceci étant fait, vous devriez avoir les contours de vos lignes en pointillés
+- Appuyez sur 'Suppr' pour supprimer le contenu de votre sélection
+- Maintenant, si vous masquez le calque de fond (qui est en blanc), vous devriez voir que toutes les zones en blanc ont disparu de votre scan. 
+- Pour déselectionner, Allez dans Sélectionner > Désélectionner (raccourci : Ctrl + Maj + A)
+- Sauvegarder votre travail : Ctrl + S
+
+Bravo, que vous ayez une tablette graphique ou non, vous avez pu avec succès séparer l'encrage sur un autre calque que le fond ! Vous allez tout de suite comprendre le grand avantage que cette technique apporte.
+
 ## Colorisation, plusieurs techniques
+
+Maintenant, créez un nouveau calque, que vous appelerez 'couleur', 'colorisation'... etc et placez-le entre l'encrage et le fond. Vous pouvez constater que si vous tirez un trait bleu au pinceau (raccourci : B) sur ce calque, l'encrage reste tel quel. Maintenant, vous pouvez colorer votre dessin comme bon vous semble, sont plus avantagés ici les dessinateurs avec des tablettes graphiques, alors je vais vous laisser avec quelques conseils pour coloriser efficacement en utilisant des outils de sélection, cela est très pratique notamment quand vous avez une assez grande surface à colorer. 
+
+## L'outil de Sélection, votre nouveau meilleur ami (surtout pour les dessinateurs sans tablette graphique)
+
+- Sélectionnez une zone à coloriser 
+- Cliquez sur l'outil Sélection à main levée, tracer le contour de la zone **ou** Cliquez sur l'outil Sélection polygonale et tracer le contour de la zone, fermez la boucle en revenant sur votre premier clic (qui sera entouré d'un petit cercle quand vous rapprocherez le curseur de celui-ci)
+- Sélectionnez la couleur que vous voulez appliquer avec le sélecteur
+- Si vous devez retirer une partie de la zone sélectionnée, entourer cette partie avec votre outil de sélection. Par défaut, il supprime la sélection en trop
+- Si vous devez rajouter une zone à la sélection, gardez maj enfoncée et sélectionnez cette zone.
+- Aller dans Modifier > Remplir avec la couleur de premier plan (racourci : Maj + Effacement)
+- Pour déselectionner, allez dans dans Sélectionner > Désélectionner (raccourci : Ctrl + Maj + A)
+
+En vous habituant à cette petite technique, vous allez vous familiariser avec des raccourcis, voilà un récapitulatif des raccourcis les plus utiles pour votre future colorisation : 
+
+- Ctrl + Effacement : Remplir la zone sélectionnée avec la couleur de premier plan 
+- Effacement : Remplir la zone sélectionnée avec la couleur d'arrière plan 
+- Ctrl + Z : Annuler l'action 
+- Suppr : Effacer le contenu de la sélection 
+- Ctrl + Maj + A : Tout déselectionner 
+
 
 
