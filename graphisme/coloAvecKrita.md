@@ -73,8 +73,13 @@ Krita est un logiciel de graphisme très prisé par les dessinateurs pour trois 
 
 C'est la techique la plus simple et rapide, mais aussi celle qui vous donnera moins de libertés sur le choix de résolution et dimension de l'image. Ici les dimensions seront celles qui auront été héritées de celles du fichier de base, vous pourrez toujours les modifier par la suite mais cela sera plus dur que d'utiliser la technique 2 directement et préciser les dimensions que l'on veut vraiment. 
 
+
+![fichier et ouvrir](/img/nouveau-ofichier-kra-ouvrir-un-fichier.jpg)
+![fichier et ouvrir](/img/ouvrir-le-scan.jpg)
+
 Ouvrir Krita Aller sur Fichier > Ouvrir (raccourci : Ctrl + O)
 Sélectionner le dessin que nous avons scanné, l'ouvrir. 
+
 
 - Il va s'ouvrir en tant qu'Arrière plan, dans les calques (à droite sur la fenêtre). 
 - Double-cliquer sur son nom et le renommer 'scan' ou 'numérisation' 
@@ -95,7 +100,7 @@ Ouvrir Krita, puis aller dans Fichier > Nouveau (raccourci = Ctrl + N)
 
 Nous avons maintenant une nouvelle fenêtre proposant de nombreuses options. Avis aux débutants : pas de panique, beaucoup de ces options sont prédéfinies pour nous et vous n'aurez pas à les modifier pour le moment. Il vous suffit de : 
 
-1. Dans Dimensions, Taille de l'image, dans la section Prédeinie : cliquer le menu déroulant
+1. Dans Dimensions, Taille de l'image, dans la section Prédefinie : cliquer le menu déroulant
 2. Sélectionner A4 (300ppi si vous avez scanné avec 300ppi, ou 6000)
 3. Dans la section hauteur, définir au minimum 2480 Pixels 
 4. Dans la section largeur, définir au minimum 3508 Pixels
@@ -106,6 +111,8 @@ Note : Personnellement, quand je réalise des dessins amateurs et des commandes,
 Vous pouvez valider après ceci. 
 
 Maintenant que vous avez un nouveau fichier, sauvegardez-le une première fois : Fichier > Enregistrer (raccourci : Ctrl + S), choisissez l'emplacement et nommez-le. 
+
+![fichier et ouvrir](/img/dessin-importé.jpg)
 
 Ensuite, importez le dessin que vous venez de scanner dans ce fichier : ouvrir avec l'explorateur de fichier l'emplacement où vous l'avez enregistré lors de sa numérisation, et faites un glissé-déposé au dessus du fichier Krita que vous venez de créer. 
 Krita va vous demander de quelle manière vous souhaitez importer ce fichier, et vous devrez séletionner "Insérer en tant que nouveau calque."
