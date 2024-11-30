@@ -102,9 +102,11 @@ Valider
 
 ### Technique 2 : Créer un nouveau fichier Krita (.kra) et importer le scan en tant que calque du fichier 
 
-C'est une technique plus longue à prendre en main pour les débutants, mais c'est une techniqueplus 'propre' que d'ouvrir le 
+C'est une technique plus longue à prendre en main pour les débutants, mais c'est une technique plus 'propre'.
 
 Ouvrir Krita, puis aller dans Fichier > Nouveau (raccourci = Ctrl + N)
+
+![creer le fichier](/img/creation-nouveau-fichier-kra.jpg)
 
 Nous avons maintenant une nouvelle fenêtre proposant de nombreuses options. Avis aux débutants : pas de panique, beaucoup de ces options sont prédéfinies pour nous et vous n'aurez pas à les modifier pour le moment. Il vous suffit de : 
 
@@ -120,16 +122,18 @@ Vous pouvez valider après ceci.
 
 Maintenant que vous avez un nouveau fichier, sauvegardez-le une première fois : Fichier > Enregistrer (raccourci : Ctrl + S), choisissez l'emplacement et nommez-le. 
 
-![fichier et ouvrir](/img/dessin-importé.jpg)
+
 
 Ensuite, importez le dessin que vous venez de scanner dans ce fichier : ouvrir avec l'explorateur de fichier l'emplacement où vous l'avez enregistré lors de sa numérisation, et faites un glissé-déposé au dessus du fichier Krita que vous venez de créer. 
 Krita va vous demander de quelle manière vous souhaitez importer ce fichier, et vous devrez séletionner "Insérer en tant que nouveau calque."
+
+![fichier et ouvrir](/img/dessin-importé.jpg)
 
 Vous pouvez aussi ouvrir votre scan dans Krita en utilisant : Fichier > Ouvrir (raccourci : Ctrl + O) et ensuite copier (raccourci : Ctrl + C), puis coller le scan sur votre fichier Krita (raccourci : Ctrl + V), à partir de là, vous aurez le même choix que pour la technique du glissé-déposé évoquée plus tôt. Sélectionnez "Insérer en tant que nouveau calque."
 
 **Si votre Arrière-plan est transparent :**
 - Sélectionnez le pot de peinture (raccourci : F)
-- Sélectinnez la couleur Blanc
+- Sélectionnez la couleur Blanc
 - Assurez-vous que vous êtes bien sur le calque "Arrière-plan"
 - Cliquez pour peindre le calque en blanc
 
@@ -144,11 +148,14 @@ Sauvegardez votre nouveau fichier.
 ## Mise au propre des lignes
 
 Maintenant que notre fichier est paré, on va pouvoir mettre au propre les lignes. Ce ique l'on veut, ici, c'est avoir une nette démarquation entre les traits et le fond de la feuille, et faire disparaître au mieux les nuances de gris. 
-
 - Aller sur le calque du scan
-- Aller dans Filtre > Ajuster > Densité +-
+- Aller dans Filtre > Ajuster > Densité +...
 - Dans le menu, sélectionner Ombres : vous allez voir un curseur prédéfini à 50
+![ajustement de la densité](/img/reglage-densite-50.jpg)
+
 - Régler le curseur pour assombrir les gris, j'ai pour l'habitude de le régler au maximum, ce qui supprime toute demi-teinte non voulue.
+
+![ajustement de la densité](/img/ajuster-densite-plus-moins.jpg)
 
 Note, dans Filtre > Ajuster, il y a d'autres moyens d'ajuster les teintes pour passer les gris en noir, mais la technique ci-dessus est la plus rapide que j'aie pu trouver dans ce menu. 
 
@@ -159,10 +166,20 @@ Maintenant que nous avons un encrage bien délimité, il faut à présent le dé
 
 - s'assurer que l'on est bien sur le calque du scan que nous avons importé
 - Sélectionner l'outil Sélection par la couleur 
-- En appuyant sur Maj, vous verrez apparaître un petit plus à côté de votre curseur, ce qui veu dire que vous allez rajouter de la surface à votre sélection
-- En gardant Maj enfoncée, cliquez sur la partie blanche de votre dessin
+
+![aller chercher la pipette](/img/aller-chercher-la-pipette.jpg)
+
+- Cliquez sur la partie noire de votre dessin
 - Ceci étant fait, vous devriez avoir les contours de vos lignes en pointillés
+
+![des lignes en pointillé](/img/quand-on-selectionne-les-lignes.jpg)
+
 - Appuyez sur 'Suppr' pour supprimer le contenu de votre sélection
+
+![des lignes en pointillé](/img/quand-les-lines-ont-ete-supprimees.jpg)
+
+
+
 - Maintenant, si vous masquez le calque de fond (qui est en blanc), vous devriez voir que toutes les zones en blanc ont disparu de votre scan. 
 - Pour déselectionner, Allez dans Sélectionner > Désélectionner (raccourci : Ctrl + Maj + A)
 - Sauvegarder votre travail : Ctrl + S
@@ -177,11 +194,26 @@ Maintenant, créez un nouveau calque, que vous appelerez 'couleur', 'colorisatio
 
 - Sélectionnez une zone à coloriser 
 - Cliquez sur l'outil Sélection à main levée, tracer le contour de la zone **ou** Cliquez sur l'outil Sélection polygonale et tracer le contour de la zone, fermez la boucle en revenant sur votre premier clic (qui sera entouré d'un petit cercle quand vous rapprocherez le curseur de celui-ci)
+
+ ![selection contingue](../img/selection-contingue.jpg)
+
 - Sélectionnez la couleur que vous voulez appliquer avec le sélecteur
+
+![selectionner une couleur](../img/selectionner-une-couleur.jpg)
+
 - Si vous devez retirer une partie de la zone sélectionnée, entourer cette partie avec votre outil de sélection. Par défaut, il supprime la sélection en trop
+
+
 - Si vous devez rajouter une zone à la sélection, gardez maj enfoncée et sélectionnez cette zone.
-- Aller dans Modifier > Remplir avec la couleur de premier plan (racourci : Maj + Effacement)
+
+
+- Aller dans Modifier > Remplir avec la couleur de premier plan ou d'arrière plan (racourci : Maj + Effacement -ou- Ctrl + Maj + Effacement)
+
+![remplir avec la couleur de premier plan](../img/remplir-avec-la-couleur-de-premier-plan.jpg)
+
 - Pour déselectionner, allez dans dans Sélectionner > Désélectionner (raccourci : Ctrl + Maj + A)
+
+![deselection](../img/deselectionner.jpg)
 
 En vous habituant à cette petite technique, vous allez vous familiariser avec des raccourcis, voilà un récapitulatif des raccourcis les plus utiles pour votre future colorisation : 
 
