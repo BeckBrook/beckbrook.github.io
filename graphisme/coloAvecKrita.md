@@ -6,7 +6,7 @@ categories: graphisme
 #meta: "Springfield"
 ---
 
-![image d introduction](sourcil-colore.jpg)
+![image d introduction](/img/sourcil-colore.jpg)
 
 
 ### Index 
