@@ -47,6 +47,8 @@ Voilà nos critères :
 - Type de fichier : PNG 
 - Résolution (ppp) : 300 (minimum) ou 600 (optimal)
 
+![capture des specs d'impression](/img/scan-les-spacs.jpg)
+
 - *PPP, qu'est-ce que c'est ? (l'acronyme de Petit Poulpe Perdu ?)* PPP est une unité de mesure pour définir la résolution d'une image, il signifie le nombre de Pixels Par Pouce. Plus ce chiffre est élevé, plus la qualité est élevée, et... plus le fichier est lourd ! on le retrouve aussi sous le nom de ppi dans certains logiciels, ppi est Pixels Per Inch, sa version anglophone 
 
 - *Qu'est-ce qui définit la définition ?*
