@@ -206,7 +206,7 @@ Maintenant, créez un nouveau calque, que vous appelerez 'couleur', 'colorisatio
 - Si vous devez rajouter une zone à la sélection, gardez maj enfoncée et sélectionnez cette zone.
 
 
-- Aller dans Modifier > Remplir avec la couleur de premier plan ou d'arrière plan (racourci : Maj + Effacement -ou- Ctrl + Maj + Effacement)
+- Aller dans Modifier > Remplir avec la couleur de premier plan ou d'arrière plan (racourci : Maj + Effacement -ou- Effacement)
 
 ![remplir avec la couleur de premier plan](../img/remplir-avec-la-couleur-de-premier-plan.jpg)
 
