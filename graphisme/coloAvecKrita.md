@@ -6,7 +6,7 @@ categories: graphisme
 #meta: "Springfield"
 ---
 
-![image d introduction](tuto-dessin-krita/sourcil-colore.jpg)
+![image d introduction](/tuto-dessin-krita/sourcil-colore.jpg)
 
 
 ### Index 
