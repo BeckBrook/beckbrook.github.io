@@ -6,6 +6,8 @@ categories: graphisme
 #meta: "Springfield"
 ---
 
+![image d introduction](tuto-dessin-krita/sourcil-coloré.jpg)
+
 
 ### Index 
 - [Prérequis](#prérequis)
@@ -15,6 +17,9 @@ categories: graphisme
 - [Mise au propre des lignes](#mise-au-propre-des-lignes)
 - [Isoler les lignes sur un nouveau calque](#isoler-les-lignes-sur-un-nouveau-calque)
 - [Colorisation, plusieurs techniques](#colorisation-plusieurs-techniques)
+
+
+
 
 
 Alors ça y est, vous venez de finir l'encrage d'un dessin sur feuille, et vous voudriez passez à la colorisation en numérique. Dans ce tutoriel, nous verrons comment scanner, ouvrir son dessin dans un nouveau fichier Krita, et passer à la colorisation sans se mordre les doigts ! 
