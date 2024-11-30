@@ -57,6 +57,9 @@ Personnellement, je m'assure de toujours **scanner à une définition plus élev
 
 ## Présentation de Krita
 
+![capture du site krita](/img/krita-site.jpg)
+
+
 Krita est un logiciel de graphisme très prisé par les dessinateurs pour trois raisons principales. D'une, il est très complet et intuitif, de deux, il est fait pour les illustrateurs plus que pour les graphistes, donc plus facile à prendre en main pour nous, scribouillard-es, et de trois, il est gratuit ! (c'est, comme Gimp, un logiciel dit open-source)
 
 [Vous pouvez le télécharger en visitant leur site officiel](https://krita.org/fr/download/) ( https://krita.org/fr/download/ ) 
