@@ -6,7 +6,7 @@ categories: graphisme
 #meta: "Springfield"
 ---
 
-![image d introduction](/tuto-dessin-krita/sourcil-colore.jpg)
+![image d introduction](sourcil-colore.jpg)
 
 
 ### Index 
@@ -25,6 +25,8 @@ categories: graphisme
 Alors ça y est, vous venez de finir l'encrage d'un dessin sur feuille, et vous voudriez passez à la colorisation en numérique. Dans ce tutoriel, nous verrons comment scanner, ouvrir son dessin dans un nouveau fichier Krita, et passer à la colorisation sans se mordre les doigts ! 
 
 ## Prérequis
+
+![photo d'un dessin](/tuto-dessin-krita/sourcil-colore.jpg)
 
 - Votre joli dessin
 - Un scanner
