@@ -88,11 +88,17 @@ Sélectionner le dessin que nous avons scanné, l'ouvrir.
 - Créer un nouveau calque et le placer en dessous du scan
 - Double-cliquer sur son nom et le renommer 'fond' ou 'Arrière-plan'
 - Se positionner sur le calque de fond
+
+![selectionner le pot de peinture](/img/rajouter-pot-peinture-calque.jpg)
+
 - Sélectionner le pot de peinture (raccourci : F), la couleur blanche, et cliquez pour peindre tout le calque en blanc
 - Sauvegarder le fichier : Fichier > Enregistrer Sous... (raccourci Ctrl + Maj + S)
 - Sélectionner l'emplacement
 - Dans le menu déroulant des formats, sélectionner le format Krita (.kra)
 Valider
+![comment enregistrer le fichier](/img/ou-enregistrer-le-fichier.jpg)
+
+
 
 ### Technique 2 : Créer un nouveau fichier Krita (.kra) et importer le scan en tant que calque du fichier 
 
