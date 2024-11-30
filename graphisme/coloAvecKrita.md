@@ -69,6 +69,8 @@ Krita est un logiciel de graphisme très prisé par les dessinateurs pour trois 
 ## Création du nouveau fichier et importation du scan
 
 
+![capture de l'accueil de krita](/img/accueil-krita.jpg)
+
 ### Technique 1 : Ouvrir directement le fichier dans krita puis le sauvegarder en tant que fichier Krita (.kra)
 
 C'est la techique la plus simple et rapide, mais aussi celle qui vous donnera moins de libertés sur le choix de résolution et dimension de l'image. Ici les dimensions seront celles qui auront été héritées de celles du fichier de base, vous pourrez toujours les modifier par la suite mais cela sera plus dur que d'utiliser la technique 2 directement et préciser les dimensions que l'on veut vraiment. 
