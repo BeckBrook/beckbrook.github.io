@@ -154,8 +154,7 @@ Maintenant que notre fichier est paré, on va pouvoir mettre au propre les ligne
 ![ajustement de la densité](/img/reglage-densite-50.jpg)
 
 - Régler le curseur pour assombrir les gris, j'ai pour l'habitude de le régler au maximum, ce qui supprime toute demi-teinte non voulue.
-
-![ajustement de la densité](/img/ajuster-densite-plus-moins.jpg)
+![reglage densite 90](../img/reglage-densite.jpg)
 
 Note, dans Filtre > Ajuster, il y a d'autres moyens d'ajuster les teintes pour passer les gris en noir, mais la technique ci-dessus est la plus rapide que j'aie pu trouver dans ce menu. 
 
