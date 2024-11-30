@@ -231,7 +231,7 @@ Maintenant que vous avez fini votre dessin, vous pouvez l'exporter en .png, ou e
 ![export](../img/exporter-le-dessin.jpg)
 
 
-Félicitations pour ce dessin et ce coloriage numérique et à plus itard pour de nouveaux tutos ! 
+Félicitations pour ce dessin et ce coloriage numérique et à plus tard pour de nouveaux tutos ! 
 
 
 
