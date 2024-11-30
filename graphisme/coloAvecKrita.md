@@ -26,8 +26,7 @@ Alors ça y est, vous venez de finir l'encrage d'un dessin sur feuille, et vous 
 
 ## Prérequis
 
-![photo d'un dessin](/tuto-dessin-krita/sourcil-colore.jpg)
-
+![image d introduction](/img/photophone.jpg)
 - Votre joli dessin
 - Un scanner
 - Un PC
