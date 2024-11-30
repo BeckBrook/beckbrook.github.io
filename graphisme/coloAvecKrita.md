@@ -86,8 +86,8 @@ Nous avons maintenant une nouvelle fenêtre proposant de nombreuses options. Avi
 
 1. Dans Dimensions, Taille de l'image, dans la section Prédeinie : cliquer le menu déroulant
 2. Sélectionner A4 (300ppi si vous avez scanné avec 300ppi, ou 6000)
-3. Dans la section hauteur, définir au minimum 1280 Pixels 
-4. Dans la section largeur, définir au minimum 720 Pixels
+3. Dans la section hauteur, définir au minimum 2480 Pixels 
+4. Dans la section largeur, définir au minimum 3508 Pixels
 5. Si vous travaillez sur un format paysage, inversez les deux valeurs ou cliquez sur l'icône à côté du menu déroulant 'Prédefinie' qui correspond à votre orientation d'image
 
 Note : Personnellement, quand je réalise des dessins amateurs et des commandes, scannant mes dessins à une résolution de 600ppi, je favorise A4 (600 ppi), avec un format de 4961px par 7016px. Mais cela crée des fichiers lourds en termes de stockage et aussi d'utilisation de la mémoire. Avec un PC à 16Go de RAM ou plus, pas de problème, mais je vous recommande de baisser la résolution/qualité dans le cas où votre PC aurait moins de capacités, sinon vous rencontrerez la frustration de tirer un trait à la tablette ou à la souris, et de ne le voir apparaître qu'après quelques secondes. 
