@@ -115,7 +115,28 @@ Comme nous venons de le voir, les classes d'adresses A, B et C sont des classes 
 
 ## Découpage d'une classe en sous-réseau
 
-Savoir découper une classe d'adresses en sous réseaux, qui équivaut à diviser la partie des adresses hôtes (hostId) en de nouveaux groupes d'adresses, est une technique très pratique pour solutionner le problème de distribution de l'espace d'adressage. On l'appelle le "subnetting"
+Savoir découper une classe d'adresses en sous réseaux, ce qui équivaut à diviser la partie des adresses hôtes (hostId) en de nouveaux groupes d'adresses, est une technique très pratique pour solutionner le problème de distribution de l'espace d'adressage. On l'appelle le "subnetting".
+
+Cette technique permet entre autres de cloisoner les domaines de diffusion. Ce cloisonnement est pratique opur de nombreuses raisons. Par exemple, dans une entreprise, on cherchera toujours à séparer les téléphones IP des ordinateurs, car leurs méthodes de communications pourraient interférer entre elles. On va donc créer un réseau pour les ordinateurs, et un autre pour les téléphones. 
+Ensuite, il y a un aspect de sécurité derrière le cloisonnement des domaines de diffusion : certains virus, comme le ver Sasser, se servent des diffusions pour identifier des machines sur le réseau. Cela limite les dégâts et permet de mieux sécuriser le réseau.
+
+
+### Procédé
+
+Pour définir des sous-réseaux à partir d'une classe d'adresses, on va d'une certaine manière 'allonger' la partie de la classe qui identifie les réseaux, et donc diminuer la partie qui définit les machines hôtes. 
+
+Di l'on réserve trois bits pour définir les sous-réseaux, alors on disposera de huit sous-réseaux possibles. Di l'on en réserve deux, on disposera de trois réseaux etc. 
+
+En général une fois que l'on a calculé les sous-réseaux, on les configure soit sur un switch manageable ou un routeur afin de les mettre en oeuvre. 
+
+
+### Ce à quoi il faut veiller lorsqu'on calcule les sous réseaux 
+
+Il faut faire attention à l'adresse du réseau et l'adresse de diffusion. ce sont deux adresses qui ne pourront pas être assignées à une machine hôte et donc ne feront pas partie de la plage d'adresses disponibles.
+
+## Exemple 
+
+
 
 
 ---
