@@ -58,7 +58,7 @@ le premier octet de la classe B est entre **128 et 191**. Les deux bits de poids
 
 Où retrouve-t'on des adresses IP de la classe B ?
 
-Les adresses de la classe B peuvent être utilisées par des entreprises de taille moyenne ou bien des entreprises. Il est plus courant de les rencontrer dans le domaine professionnel. 
+Les adresses de la classe B peuvent être utilisées par des entreprises de taille moyenne ou bien des universités. Il est plus courant de les rencontrer dans le domaine professionnel. 
 
 ## La classe C 
 
@@ -115,6 +115,7 @@ Comme nous venons de le voir, les classes d'adresses A, B et C sont des classes 
 
 ## Découpage d'une classe en sous-réseau
 
+Savoir découper une classe d'adresses en sous réseaux, qui équivaut à diviser la partie des adresses hôtes (hostId) en de nouveaux groupes d'adresses, est une technique très pratique pour solutionner le problème de distribution de l'espace d'adressage. On l'appelle le "subnetting"
 
 
 ---
