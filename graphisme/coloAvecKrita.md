@@ -224,7 +224,7 @@ En vous habituant à cette petite technique, vous allez vous familiariser avec d
 - Avec l'outil de sélection : Maj enfoncée pour rajouter une zone de sélection
 
 
-## Exportez votre chez d'oeuvre 
+## Exportez votre chef-d'oeuvre 
 
 Maintenant que vous avez fini votre dessin, vous pouvez l'exporter en .png, ou en .jpeg, en allant sur Fichier > Exporter et en sélectionnant le format dont vous rêvez.
 ![export](../img/exporter-le-dessin.jpg)
