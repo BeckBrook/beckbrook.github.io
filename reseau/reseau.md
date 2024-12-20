@@ -10,7 +10,6 @@ Dans cette catégorie, vous trouverez des pistes et des conseils pour appréhend
 
 ## Index 
 
-- [les notations binaires, l'héxadécimales et décimales](/hexaBinDeci.md)
-- [Unités de mesure](/unitesDeMesure.md)
-- [Les classes de Réseaux et les sous-réseaux](/classesReseau.md)
+- [les notations binaire, héxadécimale, et conversions](/hexaBinDeci.md)
+- [Les classes de réseaux et les sous-réseaux](/classesReseau.md)
 
