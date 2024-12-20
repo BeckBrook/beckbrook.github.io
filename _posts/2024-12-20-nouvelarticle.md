@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nouvel Article : Comment mettre en couleur un encrage traditionnel sur Krita"
+title: "Nouvel Article : les classes de réseaux et le découpage en sous-réseaux !"
 categories: junk
 author:
 - Beck Brook
