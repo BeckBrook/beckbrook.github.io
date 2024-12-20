@@ -10,13 +10,13 @@ categories: junk
 
 - [Rappels](#rappels)
 - [Les différentes classes de réseaux](#les-différentes-classes-de-réseaux)
-- [## La classe A](#la-classe-a)
-- [## La classe B](#la-classe-b)
-- [## La classe C](#la-classe-c)
-- [## La classe D](#la-classe-d)
-- [## La classe E](#la-classe-e)
-- [# Les sous-réseaux](#les-sous-réseaux)
-- [# Découpage en sous-réseaux](#découpage-en-sous-réseaux)
+- [La classe A](#la-classe-a)
+- [La classe B](#la-classe-b)
+- [La classe C](#la-classe-c)
+- [La classe D](#la-classe-d)
+- [La classe E](#la-classe-e)
+- [Les sous-réseaux](#les-sous-réseaux)
+- [Découpage en sous-réseaux](#découpage-en-sous-réseaux)
 
 
 

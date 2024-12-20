@@ -6,10 +6,10 @@ author:
 - Beck Brook
 #meta: "Springfield"
 ---
-Salut à tous,voilà un nouvel article dans la catégorie Graphisme, pour vous aider dans la colorisation de dessin traditionnels à la tablette graphique
+Salut à tous, un nouvel article dans la catégorie Réseau vient de surgir ! Dans celui-ci nous verrons les classes d'adresses IP et le découpage en sous-réseaux !
 
 
-[Voir l'Article](https://beckbrook.github.io/graphisme/coloAvecKrita.html)
+[Voir l'Article](https://beckbrook.github.io/reseau/classesReseau.html)
 
 
 
