@@ -136,7 +136,7 @@ Il faut faire attention à l'adresse du réseau et l'adresse de diffusion. ce so
 
 ## Exemple 
 
-
-
+Dans cette partie, on verra un cas pratique, avec un tableau de sous-réseaux, qui est important quand on met en place ou réfectionnne des réseaux, afin de garder une trace écrite des adresses et des découpages du réseau :
+![Alt text](../img/masqueSousReseau.jpg)
 
 ---
