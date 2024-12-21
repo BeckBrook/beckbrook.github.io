@@ -58,7 +58,7 @@ Le premier octet (ou nombre) de la classe A est entre **1 et 126**. Son 'bit de 
 
 Donc, avec ces adresses il est possible de rassembler un très grand nombre d'hôtes dans un réseau ! 
 
-### Où retrouve-t'on des adresses IP de la classe A ? 
+### Où retrouve-t-on des adresses IP de la classe A ? 
 
 En pratique, on manipule peu d'adresses IP de la classe A, elles sont réservées à de grands groupes, ou même aux gouvernements car dans un seul réseau défini par la classe A, on peut trouver énormément de machines hôtes !
 
@@ -67,7 +67,7 @@ En pratique, on manipule peu d'adresses IP de la classe A, elles sont réservée
 
 le premier octet de la classe B est entre **128 et 191**. Les deux bits de poids fort de ce nombre sont 1-0. Les deux premiers octets des adresses de la classe B définissent l'identifiant du réseau et le reste définit l'identifiant de l'hôte. 
 
-### Où retrouve-t'on des adresses IP de la classe B ?
+### Où retrouve-t-on des adresses IP de la classe B ?
 
 Les adresses de la classe B peuvent être utilisées par des entreprises de taille moyenne ou bien des universités. Il est plus courant de les rencontrer dans le domaine professionnel. 
 
@@ -75,7 +75,7 @@ Les adresses de la classe B peuvent être utilisées par des entreprises de tail
 
 Le premier octet de la classe C est entre **192 et 223**. Les 3 bits de poid fort de ce nombre sont 1-1-0. Les trois premiers octets des adresses de la classe C définissent l'identifiant du réseau et le reste définit l'identifiant de l'hôte. 
 
-### Où retrouve-t'on des adresses IP de la classe C ? 
+### Où retrouve-t-on des adresses IP de la classe C ? 
 
 Ce sont les adresses les plus répandues, utilisées par de petits réseaux (petites entreprises ou chez des particuliers), il est possible de rencontrer 254 hôtes sur un même réseau utilisant une adresse de la classe C. 
 
@@ -83,14 +83,14 @@ Ce sont les adresses les plus répandues, utilisées par de petits réseaux (pet
 
 Le premier octet de la classe D est entre **224 et 239**. Les 4 bits de poids fort de ce nombre sont 1-1-1-0. Tous les octets sont réservés pour l'identifiant de réseau (NetId). 
 
-### Où retrouve-t'on des adresses IP de la classe D ? 
+### Où retrouve-t-on des adresses IP de la classe D ? 
 Ces addresse particulières sont utilisées pour des services de multi-diffusion, ou multicast. Ils servent à communiquer à des groupes d'hôtes, ou hosts-groups. 
 
 ## La classe E
 
 Le premier octet de la classe E est entre **240 et 255**. Les 4 bits de poids fort de ce nombre valent 1-1-1-1. Les adresses comprises dans la classe E sont des adresses réservées par l'institution IANA, elle ne sont pas utilisées. 
 
-### Où retrouve-t'on des adresses IP de la classe E ? 
+### Où retrouve-t-on des adresses IP de la classe E ? 
 Elles sont réservées par l'IANA, ce qui signifie qu'on ne peut en rencontrer nulle part. 
 
 
