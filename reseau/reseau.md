@@ -12,4 +12,4 @@ Dans cette catégorie, vous trouverez des pistes et des conseils pour appréhend
 
 - [les notations binaire, héxadécimale, et conversions](/hexaBinDeci.md)
 - [Les classes de réseaux et les sous-réseaux](/classesReseau.md)
-
+- [Les 7 couches du modèle OSI](/osi.md)
